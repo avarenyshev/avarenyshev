@@ -1,4 +1,7 @@
-### Hi there 👋
+### <h1 align="center">Привет, я <a href="https://github.com/avarenyshev" target="_blank">Александр</a>
+
+<h3>About me:</h3>
+Я QA-лид команды тестирования системы складсого учета. В сфере QA с 2019г. На текущий момент обучаюсь атоматизации тестирования на Java.
 
 <!--
 **avarenyshev/avarenyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
